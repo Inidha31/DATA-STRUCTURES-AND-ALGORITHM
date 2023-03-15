@@ -1,0 +1,23 @@
+ DATA STRUCTURES AND ALGORITHMS
+ 1.Array
+     1.Single dimension array
+     2.Multi dimension array
+2.Linked List
+     1.singly linked list
+     2.doubly linked list
+     3.circular linked list
+
+3.Stack 
+4.Queue
+5.Tree
+     1.Binary Tree
+     2.Binary Search Tree
+     3.AVL Tree
+     4.Red-Black Tree
+6.Heap
+     1.MaxHeap
+     2.MinHeap
+7.Hashing 
+     1.HashSet
+     2.HashMap
+8.Graph
